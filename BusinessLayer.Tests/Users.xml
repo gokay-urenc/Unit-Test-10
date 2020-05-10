@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User name="Coach" phone="04941226129" email="coach@left4dead2.com" />
+  <User name="Nick" phone="04512410535" email="nick@left4dead2.com" />
+  <User name="Ellis" phone="05125951215" email="ellis@left4dead2.com" />
+  <User name="Rochelle" phone="06452179541" email="rochelle@left4dead2.com" />
+  <User name="Zoey" phone="02114612114" email="zoey@left4dead.com" />
+  <User name="Francis" phone="04119418517" email="francis@left4dead.com" />
+  <User name="Bill" phone="08146519442" email="bill@left4dead.com" />
+  <User name="Louis" phone="07561269282" email="louis@left4dead.com" />
+</Users>
+
+<!-- Copy to output directory property has been set as "copy always".
+     Otherwise DataSource attribute can not reach this xml file. -->
